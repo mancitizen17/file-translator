@@ -1,0 +1,9 @@
+{
+  "name": "serverless-file-translator-demo",
+  "version": "1.0.0",
+  "description": "Lightweight Vercel demo of the serverless-file-processor project (AWS S3 + Lambda + Translate).",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}

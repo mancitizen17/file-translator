@@ -1,5 +1,7 @@
 # Serverless File Translator — Live Demo
 
+### 🔗 [**Live Demo →**](https://file-translator-vert.vercel.app/)
+
 This is a lightweight, Vercel-hosted demo of the architecture and idea behind
 [serverless-file-processor](https://github.com/mancitizen17/serverless-file-processor),
 which is built on **AWS S3 + Lambda + AWS Translate**.
@@ -19,9 +21,4 @@ AWS-native, production-shaped) lives in the original repo.
    serverless functions and `public/` as static files.
 4. After ~30 seconds you'll get a live URL like `your-project.vercel.app`.
 
-## What to put on your resume
 
-- **Project:** Serverless File Translator (AWS S3, Lambda, Translate)
-- **Live demo:** your-project.vercel.app *(implementation note: demo uses a
-  lightweight serverless function; full AWS architecture in repo README)*
-- **Code:** link to the original GitHub repo
